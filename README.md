@@ -4,7 +4,7 @@ A small repo for practicing the GitHub pull request workflow: branch, commit, pu
 
 ## What this is
 
-This repo exists so I can pratice opening pull requests on GitHub without
+This repo exists so I can practice opening pull requests on GitHub without
 touching a real project. Feel free to reuse it for the same purpose.
 
 ## Workflow
